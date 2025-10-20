@@ -1,5 +1,7 @@
 # Vefforritun 1, 2025, hópverkefni 2
 
+- [Fyrirlestur 10.3: Hópverkefni 2](https://youtu.be/zlwHg9kDPZs)
+
 ## Verkefnalýsing
 
 Verkefnið felst í að útbúa vef sem leyfir að búa til/velja spurningar og birta þær í barsvar (pubquiz) formi.
@@ -103,7 +105,7 @@ Notast skal við Git og GitHub. Engar zip skrár með kóða ættu að ganga á 
 
 Sjást ætti á _commit history_ að allir meðlimir hóps hafi tekið þátt í verkefni.
 
-Útbúa þarf a.m.k. fimm Pull Request (PR) þar sem búið er að fara yfir af öðrum meðlim í hóp og yfirferð ásamt gagnrýni sést á GitHub.
+Útbúa þarf a.m.k. fimm Pull Request (PR) þar sem búið er að fara yfir af öðrum meðlim í hóp og yfirferð ásamt gagnrýni sést á GitHub. Ef um einstaklingsverkefni þarf að útbúa a.m.k. tvær PR þar sem viðkomandi fer yfir eigin kóða.
 
 ## Lýsing á verkefni
 
@@ -136,7 +138,8 @@ Setja skal verkefnið upp á Netlify, tengt GitHub.
 - 10% Git notað og PR eftir forskrift.
 - 10% Almennt útlit og skalanleiki útfært fyrir forsíðu og efnissíður.
 - 10% Slóðir og síður fyrir hvert efni.
-- 60% Valið efni útfært.
+- 10% Grunvirkni útfærð.
+- 50% Valið efni útfært.
 
 Fyrir valið efni er metið:
 
